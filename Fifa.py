@@ -4,7 +4,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 
 # Load the dataset
-file_path = 'C:/Users/tejga/Downloads/Cleaned_Fifa_Dataset.csv'
+file_path = 'Cleaned_Fifa_Dataset.csv'
 fifa_df = pd.read_csv(file_path)
 
 # Sidebar for user inputs
